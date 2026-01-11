@@ -4,6 +4,6 @@
     "cost": 0,
     "uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
-		    "Unbuildable <for [AI player Civilizations]>",
+		    "Unbuildable <for [AI player]>",
         "New [Military] units start with [5000] XP [in all cities]", "[+500]% XP gained from combat <for [Military] units>"]}
 ]
